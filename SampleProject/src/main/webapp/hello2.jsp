@@ -12,5 +12,7 @@
 	<hr>
 	<hr>
 	<h1>이번엔 될까 날리는 소스</h1>
+	<label>충돌용 라벨</label>
+	<label>충돌용 방지턱</label>
 </body>
 </html>
